@@ -3,7 +3,7 @@
 <suite name="Suite">
 <groups>
 <run>
-<!-- <include name="smoke"></include>
+<!-- <include name="smoke1"></include>
 <include name="functional"></include> -->
 </run>
 </groups>
